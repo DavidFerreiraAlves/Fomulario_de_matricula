@@ -14,7 +14,7 @@ A modern and responsive enrollment form designed to facilitate student registrat
 - JavaScript (Form validation and interaction)
 
 ## 🌎 Website
-![Preview](https://davidferreiraalves.github.io/Fomulario_de_matricula/)
+[Preview](https://davidferreiraalves.github.io/Fomulario_de_matricula/)
 
 ## 🔧 Installation & Usage
 1. Clone the repository:
